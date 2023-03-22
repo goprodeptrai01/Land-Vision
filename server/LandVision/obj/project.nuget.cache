@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "Qdwqqn719qJuHvLH0wFo0h0SOTfIhjzA6Q9qoaPjjGfnT1ntJ0JOZQVsWmnLRuUbWFlFI4Rr+KRXMzDNuiaEeQ==",
+  "success": true,
+  "projectFilePath": "D:\\GO\\Code\\Csharp\\Land-Vision\\server\\LandVision\\LandVision.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nero\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Nero\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Nero\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\Nero\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\Nero\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\Nero\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
